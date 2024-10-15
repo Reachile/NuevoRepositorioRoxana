@@ -1,2 +1,2 @@
 # NuevoRepositorioRoxana
- Arendiendo a usa github desktop
+ Aprendiendo a usar github desktop
