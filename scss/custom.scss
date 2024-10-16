@@ -2,7 +2,7 @@
 
 $primary: #cd212a; 
 $secondary: #fff200;
-$succes: #008c45;
+$success: #008c45;
 $info: #00a1e4;
 $warning: #ff8000;
 $danger: #cedc00;
@@ -20,5 +20,11 @@ $theme-colors: (
   "dark":       $dark
 );
 
- /*Importando todo Bootstrap */
- @import "../bootstrap/scss/bootstrap.scss";
+/* MODIFICAR ESTILOS DE LOS BOTONES */
+
+$btn-border-radius: 80px;
+$btn-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+
+/* Importanto todo bootstrap */
+@import "../bootstrap/scss/bootstrap.scss";
+
