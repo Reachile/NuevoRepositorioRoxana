@@ -1,7 +1,7 @@
 /* Modificar Paleta de Colores */
 
 $primary: #cd212a; 
-$secundary: #fff200;
+$secondary: #fff200;
 $succes: #008c45;
 $info: #00a1e4;
 $warning: #ff8000;
@@ -21,4 +21,4 @@ $theme-colors: (
 );
 
  /*Importando todo Bootstrap */
-@import "../bootstrap/scss/bootstrap.scss";
+ @import "../bootstrap/scss/bootstrap.scss";
